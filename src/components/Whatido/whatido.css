@@ -1,0 +1,44 @@
+.whatFluid{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.title{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.title h1{
+    border-bottom: 2px solid white;
+}
+.whatContainer{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 35px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.whatContent{
+    /* text-align: center; */
+    width: 32%;
+    padding: 20px;
+    /* border: 2px solid white; */
+}
+.whatICON{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.wICON{
+    font-size: 50px;
+
+}
+.whatDescrip {
+    text-align: center;
+
+}
+
+.h6Heading{
+    margin-top: 20px;
+}

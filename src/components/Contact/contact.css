@@ -1,0 +1,28 @@
+.contactContainer{
+    margin:25px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:15px;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+.contactBox{
+    
+    
+    width: 40%;
+    height: 20%;
+    /* border: 2px solid red; */
+    text-align: center;
+    background-color: #252734;
+    border-radius: 20px;
+    padding: 20px;
+    
+}
+.contactBox h6{
+    margin-top: 20px;
+}
+#emailhead{
+     font-size: 12px;
+}
